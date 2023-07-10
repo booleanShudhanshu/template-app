@@ -1,0 +1,26 @@
+.loadingContainer {
+  padding: "10% 25%";
+  height: "90vh";
+}
+.loadingcontainer div {
+  border: "1px solid #ddd";
+  height: "250px";
+  display: "flex";
+  flex-direction: "column";
+  justify-content: "center";
+  align-items: "center";
+}
+.noFallbackContainer {
+  justify-content: "center";
+  display: "flex";
+  align-items: "center";
+  border-radius: "8px";
+}
+.noFallbackContainer h5 {
+  margin-right: "10px";
+}
+.loadingContainer {
+  padding-top: "20rem";
+  display: "grid";
+  place-items: "center";
+}
